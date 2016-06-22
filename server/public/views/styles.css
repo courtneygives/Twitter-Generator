@@ -6,6 +6,23 @@ font-family: 'Satisfy', cursive;
 font-family: 'Economica', sans-serif;
 font-family: 'Montez', cursive;*/
 
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../assets/googlefonts/Orbitron-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Bangers';
+  src: url('../assets/googlefonts/Bangers.ttf');
+}
+
+@font-face {
+  font-family: 'Satisfy';
+  src: url('../assets/googlefonts/Satisfy-Regular.ttf');
+}
+
+
+
 body {
   background-color: slategray;
   font-family: "futura", sans-serif;
