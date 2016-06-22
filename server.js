@@ -1,7 +1,7 @@
 var express = require("express");
-var index = require("./routes/index");
-var noun = require('./routes/noun');
-var adjective = require('./routes/adj');
+var index = require("./server/routes/index");
+var noun = require('./server/routes/noun');
+var adjective = require('./server/routes/adj');
 
 var app = express();
 
