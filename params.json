@@ -1,0 +1,6 @@
+{
+  "name": "Twitter-generator",
+  "tagline": "",
+  "body": "# Twitter-Generator\r\n\r\n## What's this, Courtney?\r\n\r\nThis is a simple application I made while at code school (Prime Digital Academy) using Bootstrap, HTML5/CSS3 (obviously), JavaScript, AngularJS, Google Fonts, NodeJS, and ExpressJS.\r\n\r\n## What does it do, Courtney?\r\n\r\nThis app grabs one random noun and one random adjective and puts them together to give you some inspiration for your next Twitter handle. For now, each generated name links to \"twitter.com/[generatedname]\", where you can check the availability.\r\n\r\n![Screen Shot](server/public/views/tg-shot.png)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
